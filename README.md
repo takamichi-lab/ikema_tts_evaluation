@@ -4,6 +4,7 @@
 ## Dataset structure / データセット構成
 ```
 - ikema_tts_evaluation_sentence.csv
+- ikema_tts_evaluation_sentence.txt
 ```
 
 #### `ikema_tts_evaluation_sentence.csv`
@@ -16,3 +17,6 @@
 - `ID`: 評価文のID．
 - `sentence`: 評価文．
 - `reason_for_choice`: なぜその文を評価文として選んだのか．
+
+#### `ikema_tts_evaluation_sentence.txt`
+csvをtxt形式にしたもの．
